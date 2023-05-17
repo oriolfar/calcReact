@@ -22,31 +22,31 @@ Follow the steps below to install and run the Calculator App on your development
 
 git clone https://github.com/your-username/calculator-app.git
 
-css
+
 
 3. Navigate to the project directory:
 
 cd calculator-app
 
-markdown
+
 
 4. Install the dependencies:
 
 npm install
 
-csharp
 
-5. Run the app on iOS:
+
+5. Run the app on iOS: 
 
 npx react-native run-ios
 
-arduino
+
 
 or run the app on Android:
 
 npx react-native run-android
 
-yaml
+
 
 Make sure you have the necessary setup to run the app on iOS and/or Android devices or simulators.
 
